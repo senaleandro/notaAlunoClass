@@ -1,0 +1,14 @@
+/home/sena/Documents/C#00/exeAlunoClass/bin/Debug/net8.0/exeAlunoClass
+/home/sena/Documents/C#00/exeAlunoClass/bin/Debug/net8.0/exeAlunoClass.deps.json
+/home/sena/Documents/C#00/exeAlunoClass/bin/Debug/net8.0/exeAlunoClass.runtimeconfig.json
+/home/sena/Documents/C#00/exeAlunoClass/bin/Debug/net8.0/exeAlunoClass.dll
+/home/sena/Documents/C#00/exeAlunoClass/bin/Debug/net8.0/exeAlunoClass.pdb
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/exeAlunoClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/exeAlunoClass.AssemblyInfoInputs.cache
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/exeAlunoClass.AssemblyInfo.cs
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/exeAlunoClass.csproj.CoreCompileInputs.cache
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/exeAlunoClass.dll
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/refint/exeAlunoClass.dll
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/exeAlunoClass.pdb
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/exeAlunoClass.genruntimeconfig.cache
+/home/sena/Documents/C#00/exeAlunoClass/obj/Debug/net8.0/ref/exeAlunoClass.dll
